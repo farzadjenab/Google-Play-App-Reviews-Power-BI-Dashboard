@@ -4,11 +4,6 @@
 
 Interactive Power BI dashboard analyzing Google Play Store app reviews for a **Password Manager** application. Tracks key metrics including total reviews, average ratings, developer response rates, and response times. Features sentiment analysis with rating categories and yearly trends to help improve app performance and user satisfaction.
 
----
-
-## 📊 Dashboard Preview
-
-![Dashboard Screenshot](image.png)
 
 ---
 
@@ -136,16 +131,6 @@ COUNTROWS('GooglePlay_App_Data'),
 4. **Interact** with charts by clicking on segments to filter data
 5. **Use slicers** to filter by year or other dimensions
 
----
-
-## 📁 Project Structure
-
-
-📦 Google-Play-Reviews-Dashboard
- ┣ 📄 GooglePlay_App_Data.csv        # Raw dataset
- ┣ 📄 Dashboard.pbix                  # Power BI dashboard file
- ┣ 📄 README.md                       # Project documentation
- 
 
 ---
 
